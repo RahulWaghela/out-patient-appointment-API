@@ -1,4 +1,5 @@
 <--------------------create doctor start-------------------->
+
 Step 1: Open Postman
 Step 2: Set Up the Request 
  - Select Request Type: post
@@ -21,6 +22,7 @@ Step 4: Send Request
 
 
 <----------------------Book Appointment Start----------------->
+
 Step 1:
  - same as above just change URL to http://localhost:6545/api/appointments/book
  - json data
@@ -33,10 +35,12 @@ Step 1:
 
 
 <--------------------List All The Doctor -------------------->
+
 - use this URL http://localhost:6545/api/doctors
 
 
 <-----------------get the specific doctor detail--------------->
+
  - use this URL  http://localhost:6545/api/doctors/:id
 
 
